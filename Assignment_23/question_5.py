@@ -1,7 +1,12 @@
+# Runnine Method 1 -> PYTHONINTMAXSTRDIGITS=10000 python question_5.py 
 import os
 import time
+# import sys
 from multiprocessing import Pool
 from marvellous_getnumbers import store_given_value_in_list
+
+# Running Method 2 -> Set Max Str Digits
+# sys.set_int_max_str_digits(10000)
 
 def calculate_factorial_till_given_number(number):
     factorial_till_number = 1
