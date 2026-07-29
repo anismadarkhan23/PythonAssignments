@@ -1,0 +1,1 @@
+C is a powerful, general-purpose programming language created by Dennis Ritchie at Bell Labs in 1972. It is a procedural language that bridges the gap between high-level applications and low-level machine hardware, making it a foundational pillar of modern computer science

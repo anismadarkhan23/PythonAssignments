@@ -1,0 +1,29 @@
+----------------------------------------------------------------------------------------------------
+-------------- Marvellous Automated Removal of Duplicate Files Application Log Report -------------- 
+Log files gets created at: 2026-07-29_21-00-19
+----------------------------------------------------------------------------------------------------
+Starting time of directory scan: 08:58:19 PM.
+Completion time of directory scan: 09:00:19 PM.
+Name of the directory scanned: Python_Programming_Contents
+Total number of files scanned: 15
+Total number of duplicate files found: 7
+Total number of duplicate files deleted: 7
+Complete path of all duplicate files:
+/Users/home/Documents/Python Machine Learning/Python Sessions/Practical_Assignments/Assignment_33/Python_Programming_Contents/PythonInfo_copy.txt
+/Users/home/Documents/Python Machine Learning/Python Sessions/Practical_Assignments/Assignment_33/Python_Programming_Contents/sample1.txt
+/Users/home/Documents/Python Machine Learning/Python Sessions/Practical_Assignments/Assignment_33/Python_Programming_Contents/CInfo_Copy.txt
+/Users/home/Documents/Python Machine Learning/Python Sessions/Practical_Assignments/Assignment_33/Python_Programming_Contents/sample3.txt
+/Users/home/Documents/Python Machine Learning/Python Sessions/Practical_Assignments/Assignment_33/Python_Programming_Contents/sample2.txt
+/Users/home/Documents/Python Machine Learning/Python Sessions/Practical_Assignments/Assignment_33/Python_Programming_Contents/C++Info_copy.txt
+/Users/home/Documents/Python Machine Learning/Python Sessions/Practical_Assignments/Assignment_33/Python_Programming_Contents/FileDemo_copy.txt
+Deleted files checksum values:
+e308b8954fb6a31d76c52b4487067c65
+e99ebe48a2bced32bd94eaeee5bcedb2
+8109ffc886b7d7521df5dc765970e2a5
+7c62ad0eef19d3cc595bd60727555502
+ba0f0dfefe865df90fe4e80a94acc275
+adab868205b25b5e05c0ded4337e392f
+8c5afb4d1e1263744e9cce114518f51c
+----------------------------------------------------------------------------------------------------
+------------------------------------------ End of Log Report ---------------------------------------
+----------------------------------------------------------------------------------------------------

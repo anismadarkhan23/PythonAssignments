@@ -1,0 +1,6 @@
+Python coding is a popular, easy-to-learn programming language. 
+Used for web development, data science, and automation 
+Key concepts include: 
+1. Writing simple syntax, 
+2. Using variables, and 
+3. Controlling program flow.

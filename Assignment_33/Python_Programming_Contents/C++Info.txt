@@ -1,0 +1,1 @@
+C++ is a high-performance, general-purpose programming language developed by Bjarne Stroustrup in 1979 as an extension of the C language. It is famous for combining low-level hardware control with high-level Object-Oriented Programming (OOP) features.
