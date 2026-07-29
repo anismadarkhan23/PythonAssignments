@@ -1,0 +1,12 @@
+ Marvellous Automation Script 
+ Files from the directory are: 
+.DS_Store
+file_tellX.py
+file_readX.py
+file_tell.py
+file_read_seek.py
+file_read.py
+schedule_demo1.py
+schedule_demo4.py
+schedule_demo3.py
+schedule_demo2.py
