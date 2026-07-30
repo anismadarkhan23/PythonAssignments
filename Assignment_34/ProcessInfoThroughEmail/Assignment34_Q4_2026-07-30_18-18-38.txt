@@ -1,0 +1,3196 @@
+------------------------------------------------------------
+----- Marvellous Platform Surveillance System ----- 
+Log files gets created at: 2026-07-30_18-18-38
+Email Sent By: anis.pythondev2320@gmail.com
+Email Sent To: anis.madarkhan94@gmail.com
+------------------------------------------------------------
+
+------------------- System report -----------------
+PID : 0
+Name : kernel_task
+Username : root
+Status : idle
+------------------------------------------------------------
+PID : 1
+Name : launchd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 100
+Name : logd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 101
+Name : smd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 102
+Name : UserEventAgent
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 105
+Name : fseventsd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 106
+Name : mediaremoted
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 109
+Name : systemstats
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 111
+Name : accessoryupdaterd
+Username : _accessoryupdater
+Status : sleeping
+------------------------------------------------------------
+PID : 112
+Name : configd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 113
+Name : endpointsecurityd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 114
+Name : powerd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 117
+Name : amfid
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 119
+Name : remoted
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 121
+Name : keybagd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 122
+Name : softwareupdated
+Username : _softwareupdate
+Status : sleeping
+------------------------------------------------------------
+PID : 123
+Name : corespeechd_system
+Username : _corespeechd
+Status : sleeping
+------------------------------------------------------------
+PID : 125
+Name : watchdogd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 129
+Name : mds
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 130
+Name : iconservicesd
+Username : _iconservices
+Status : sleeping
+------------------------------------------------------------
+PID : 131
+Name : kernelmanagerd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 132
+Name : diskarbitrationd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 135
+Name : coreduetd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 136
+Name : syslogd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 139
+Name : thermalmonitord
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 140
+Name : opendirectoryd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 142
+Name : apsd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 143
+Name : launchservicesd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 144
+Name : timed
+Username : _timed
+Status : sleeping
+------------------------------------------------------------
+PID : 145
+Name : usbmuxd
+Username : _usbmuxd
+Status : sleeping
+------------------------------------------------------------
+PID : 146
+Name : securityd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 148
+Name : locationd
+Username : _locationd
+Status : sleeping
+------------------------------------------------------------
+PID : 149
+Name : nesessionmanager
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 151
+Name : autofsd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 152
+Name : displaypolicyd
+Username : _displaypolicyd
+Status : sleeping
+------------------------------------------------------------
+PID : 153
+Name : dasd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 154
+Name : kdc
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 156
+Name : distnoted
+Username : _distnote
+Status : sleeping
+------------------------------------------------------------
+PID : 157
+Name : AppleCredentialManagerDaemon
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 158
+Name : PerfPowerServices
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 159
+Name : dirhelper
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 160
+Name : logind
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 161
+Name : revisiond
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 162
+Name : KernelEventAgent
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 163
+Name : usermanagerd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 165
+Name : bluetoothd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 166
+Name : notifyd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 167
+Name : sandboxd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 168
+Name : corebrightnessd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 169
+Name : AirPlayXPCHelper
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 170
+Name : com.apple.cmio.registerassistantservice
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 171
+Name : aslmanager
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 172
+Name : WindowServer
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 173
+Name : tccd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 174
+Name : cfprefsd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 176
+Name : analyticsd
+Username : _analyticsd
+Status : sleeping
+------------------------------------------------------------
+PID : 177
+Name : loginwindow
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 179
+Name : coreservicesd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 180
+Name : runningboardd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 181
+Name : powerexperienced
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 182
+Name : lsd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 183
+Name : containermanagerd_system
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 184
+Name : trustd
+Username : _trustd
+Status : sleeping
+------------------------------------------------------------
+PID : 185
+Name : airportd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 188
+Name : csnameddatad
+Username : root
+Status : running
+------------------------------------------------------------
+PID : 190
+Name : backgroundtaskmanagementd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 191
+Name : mDNSResponder
+Username : _mdnsresponder
+Status : sleeping
+------------------------------------------------------------
+PID : 192
+Name : trustdFileHelper
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 195
+Name : coreaudiod
+Username : _coreaudiod
+Status : sleeping
+------------------------------------------------------------
+PID : 196
+Name : multiversed
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 197
+Name : com.apple.ifdreader
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 198
+Name : nsurlsessiond
+Username : _nsurlsessiond
+Status : sleeping
+------------------------------------------------------------
+PID : 199
+Name : nehelper
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 200
+Name : apfsd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 201
+Name : usbd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 202
+Name : installerdiagwatcher
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 203
+Name : VDCAssistant
+Username : _cmiodalassistants
+Status : sleeping
+------------------------------------------------------------
+PID : 204
+Name : distnoted
+Username : root
+Status : running
+------------------------------------------------------------
+PID : 205
+Name : contextstored
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 206
+Name : PowerUIAgent
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 208
+Name : mobileassetd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 210
+Name : systemstatusd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 211
+Name : mDNSResponderHelper
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 212
+Name : findmydeviced
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 214
+Name : symptomsd
+Username : _networkd
+Status : sleeping
+------------------------------------------------------------
+PID : 216
+Name : authd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 217
+Name : biomed
+Username : _biome
+Status : sleeping
+------------------------------------------------------------
+PID : 218
+Name : distnoted
+Username : _cmiodalassistants
+Status : running
+------------------------------------------------------------
+PID : 219
+Name : distnoted
+Username : _coreaudiod
+Status : running
+------------------------------------------------------------
+PID : 221
+Name : cryptexd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 222
+Name : socketfilterfw
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 223
+Name : tzd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 226
+Name : sysextd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 227
+Name : corekdld
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 228
+Name : bosUpdateProxy
+Username : _softwareupdate
+Status : sleeping
+------------------------------------------------------------
+PID : 229
+Name : SubmitDiagInfo
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 230
+Name : com.apple.CodeSigningHelper
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 232
+Name : XProtectPluginService
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 241
+Name : secinitd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 242
+Name : fskit_helper
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 243
+Name : PerfPowerTelemetryClientRegistrationService
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 247
+Name : securityd_system
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 248
+Name : storagekitd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 251
+Name : cameracaptured
+Username : _cmiodalassistants
+Status : sleeping
+------------------------------------------------------------
+PID : 252
+Name : UVCAssistant
+Username : _cmiodalassistants
+Status : sleeping
+------------------------------------------------------------
+PID : 255
+Name : WiFiCloudAssetsXPCService
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 256
+Name : backupd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 262
+Name : com.apple.audio.
+Username : _coreaudiod
+Status : sleeping
+------------------------------------------------------------
+PID : 263
+Name : com.apple.audio.DriverHelper
+Username : _coreaudiod
+Status : sleeping
+------------------------------------------------------------
+PID : 267
+Name : PlugInLibraryService
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 269
+Name : syspolicyd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 271
+Name : wifip2pd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 277
+Name : AudioComponentRegistrar
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 279
+Name : mobileactivationd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 288
+Name : com.apple.audio.SandboxHelper
+Username : _coreaudiod
+Status : sleeping
+------------------------------------------------------------
+PID : 290
+Name : audioclocksyncd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 291
+Name : com.apple.geod
+Username : _locationd
+Status : running
+------------------------------------------------------------
+PID : 292
+Name : distnoted
+Username : _locationd
+Status : running
+------------------------------------------------------------
+PID : 293
+Name : softwareupdated
+Username : _softwareupdate
+Status : sleeping
+------------------------------------------------------------
+PID : 294
+Name : secinitd
+Username : _locationd
+Status : running
+------------------------------------------------------------
+PID : 297
+Name : cfprefsd
+Username : _locationd
+Status : running
+------------------------------------------------------------
+PID : 299
+Name : trustd
+Username : _locationd
+Status : running
+------------------------------------------------------------
+PID : 300
+Name : wifianalyticsd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 301
+Name : containermanagerd
+Username : _locationd
+Status : running
+------------------------------------------------------------
+PID : 302
+Name : suhelperd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 303
+Name : distnoted
+Username : _softwareupdate
+Status : running
+------------------------------------------------------------
+PID : 304
+Name : countryd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 305
+Name : searchpartyd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 306
+Name : captiveagent
+Username : _captiveagent
+Status : sleeping
+------------------------------------------------------------
+PID : 307
+Name : eligibilityd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 308
+Name : biometrickitd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 309
+Name : osanalyticshelper
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 310
+Name : com.apple.MobileSoftwareUpdate.CleanupPreparePathService
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 312
+Name : mds_stores
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 313
+Name : rtcreportingd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 314
+Name : containermanagerd
+Username : _coreaudiod
+Status : running
+------------------------------------------------------------
+PID : 316
+Name : distnoted
+Username : _spotlight
+Status : running
+------------------------------------------------------------
+PID : 317
+Name : backupd-helper
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 318
+Name : UARPUpdaterServiceDisplay
+Username : _accessoryupdater
+Status : sleeping
+------------------------------------------------------------
+PID : 319
+Name : UARPUpdaterServiceHID
+Username : _accessoryupdater
+Status : sleeping
+------------------------------------------------------------
+PID : 320
+Name : UARPUpdaterServiceDFU
+Username : _accessoryupdater
+Status : sleeping
+------------------------------------------------------------
+PID : 321
+Name : UARPUpdaterServiceUSBPD
+Username : _accessoryupdater
+Status : sleeping
+------------------------------------------------------------
+PID : 322
+Name : UARPUpdaterServiceAFU
+Username : _accessoryupdater
+Status : sleeping
+------------------------------------------------------------
+PID : 323
+Name : UARPUpdaterServiceLegacyAudio
+Username : _accessoryupdater
+Status : sleeping
+------------------------------------------------------------
+PID : 324
+Name : distnoted
+Username : _accessoryupdater
+Status : running
+------------------------------------------------------------
+PID : 326
+Name : ThunderboltAccessoryUpdaterService
+Username : _accessoryupdater
+Status : sleeping
+------------------------------------------------------------
+PID : 330
+Name : distnoted
+Username : _nsurlsessiond
+Status : running
+------------------------------------------------------------
+PID : 331
+Name : com.apple.DriverKit-IOUserDockChannelSerial
+Username : _driverkit
+Status : sleeping
+------------------------------------------------------------
+PID : 332
+Name : com.apple.AppleUserHIDDrivers
+Username : _driverkit
+Status : sleeping
+------------------------------------------------------------
+PID : 334
+Name : thermald
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 339
+Name : hidd
+Username : _hidd
+Status : sleeping
+------------------------------------------------------------
+PID : 341
+Name : distnoted
+Username : _windowserver
+Status : running
+------------------------------------------------------------
+PID : 342
+Name : WirelessRadioManagerd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 343
+Name : BlueTool
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 344
+Name : findmybeaconingd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 345
+Name : TouchBarServer
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 347
+Name : colorsync.displayservices
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 348
+Name : com.apple.ColorSyncXPCAgent
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 349
+Name : colorsyncd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 350
+Name : BTLEServer
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 351
+Name : appleeventsd
+Username : _appleevents
+Status : sleeping
+------------------------------------------------------------
+PID : 352
+Name : symptomsd-diag
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 354
+Name : sysmond
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 355
+Name : systemstats
+Username : root
+Status : running
+------------------------------------------------------------
+PID : 356
+Name : sharedfilelistd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 357
+Name : ViewBridgeAuxiliary
+Username : root
+Status : running
+------------------------------------------------------------
+PID : 359
+Name : bootinstalld
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 362
+Name : com.apple.hiservices-xpcservice
+Username : root
+Status : running
+------------------------------------------------------------
+PID : 363
+Name : coreauthd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 364
+Name : ctkahp
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 368
+Name : ctkd
+Username : _ctkd
+Status : sleeping
+------------------------------------------------------------
+PID : 370
+Name : systemsoundserverd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 373
+Name : iconservicesagent
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 374
+Name : com.apple.AmbientDisplayAgent
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 375
+Name : com.apple.ColorSyncXPCAgent
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 376
+Name : IOUserBluetoothSerialDriver
+Username : _driverkit
+Status : sleeping
+------------------------------------------------------------
+PID : 379
+Name : GSSCred
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 380
+Name : distnoted
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 394
+Name : cfprefsd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 396
+Name : lsd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 399
+Name : csnameddatad
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 402
+Name : applekeystored
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 403
+Name : secd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 404
+Name : distnoted
+Username : _appleevents
+Status : running
+------------------------------------------------------------
+PID : 405
+Name : modelcatalogd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 406
+Name : TrustedPeersHelper
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 407
+Name : UserEventAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 408
+Name : gamecontrollerd
+Username : _gamecontrollerd
+Status : sleeping
+------------------------------------------------------------
+PID : 409
+Name : seld
+Username : _applepay
+Status : sleeping
+------------------------------------------------------------
+PID : 411
+Name : knowledge-agent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 412
+Name : ContinuityCaptureAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 413
+Name : CoreServicesUIAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 414
+Name : com.apple.sbd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 415
+Name : universalaccessd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 416
+Name : cloudd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 417
+Name : pboard
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 418
+Name : talagentd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 419
+Name : WindowManager
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 420
+Name : Dock
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 421
+Name : ControlCenter
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 422
+Name : SystemUIServer
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 423
+Name : Finder
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 424
+Name : tccd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 427
+Name : filecoordinationd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 428
+Name : siriactionsd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 429
+Name : WallpaperAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 430
+Name : imklaunchagent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 431
+Name : secinitd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 432
+Name : usernotificationsd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 433
+Name : pkd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 434
+Name : bird
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 435
+Name : com.apple.hiservices-xpcservice
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 436
+Name : CoreLocationAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 437
+Name : trustd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 438
+Name : calaccessd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 439
+Name : sociallayerd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 440
+Name : suggestd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 441
+Name : callservicesd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 442
+Name : iconservicesagent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 443
+Name : containermanagerd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 444
+Name : generativeexperiencesd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 445
+Name : mediaanalysisd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 446
+Name : voicebankingd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 447
+Name : dmd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 448
+Name : QuickLookUIService
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 449
+Name : cloudd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 450
+Name : com.apple.quicklook.ThumbnailsAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 451
+Name : nsurlsessiond
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 452
+Name : APFSUserAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 453
+Name : IOUIAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 454
+Name : sharedfilelistd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 455
+Name : automountd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 456
+Name : accountsd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 457
+Name : identityservicesd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 460
+Name : rapportd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 461
+Name : BiomeAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 462
+Name : CommCenter
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 463
+Name : ManagedSettingsAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 464
+Name : usernoted
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 465
+Name : routined
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 466
+Name : triald
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 467
+Name : ndoagent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 468
+Name : icloudmailagent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 469
+Name : fileproviderd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 470
+Name : ControlStrip
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 472
+Name : deleted
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 473
+Name : syncdefaultsd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 474
+Name : ContextStoreAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 475
+Name : AMPDeviceDiscoveryAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 476
+Name : ViewBridgeAuxiliary
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 477
+Name : PAH_Extension
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 478
+Name : idleassetsd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 479
+Name : intelligentroutingd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 480
+Name : audioaccessoryd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 481
+Name : replicatord
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 482
+Name : awdd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 483
+Name : EmojiFunctionRowIM_Extension
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 484
+Name : donotdisturbd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 485
+Name : fontd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 486
+Name : deviceinterfaced
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 487
+Name : wallpaperexportd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 488
+Name : mobiletimerd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 489
+Name : extensionkitservice
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 490
+Name : replayd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 491
+Name : nearbyd
+Username : _nearbyd
+Status : sleeping
+------------------------------------------------------------
+PID : 492
+Name : AudioComponentRegistrar
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 493
+Name : ctkd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 494
+Name : NotificationCenter
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 495
+Name : kernelmanager_helper
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 496
+Name : WallpaperImageExtension
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 497
+Name : transparencyd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 498
+Name : fontworker
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 499
+Name : heard
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 500
+Name : corespeechd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 502
+Name : axassetsd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 507
+Name : Siri
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 508
+Name : icdd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 509
+Name : askpermissiond
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 511
+Name : sharingd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 512
+Name : AirPlayUIAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 513
+Name : imagent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 514
+Name : ReceiverHelper
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 515
+Name : diagnostics_agent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 516
+Name : TextInputMenuAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 518
+Name : ServiceRecords
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 519
+Name : amsaccountsd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 521
+Name : coreauthd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 522
+Name : ctkahp
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 524
+Name : CarbonComponentScannerXPC
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 525
+Name : findmylocateagent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 527
+Name : UIKitSystem
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 528
+Name : useractivityd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 529
+Name : milod
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 530
+Name : com.apple.dock.extra
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 531
+Name : ScreenTimeAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 532
+Name : Spotlight
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 533
+Name : TextInputSwitcher
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 534
+Name : PlugInLibraryService
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 535
+Name : chronod
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 536
+Name : CursorUIViewService
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 537
+Name : cdpd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 539
+Name : localizationswitcherd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 540
+Name : pbs
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 541
+Name : familycircled
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 542
+Name : StatusKitAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 543
+Name : corespotlightd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 544
+Name : neagent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 545
+Name : WiFiAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 546
+Name : followupd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 547
+Name : localspeechrecognition
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 548
+Name : IMDPersistenceAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 549
+Name : com.apple.geod
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 550
+Name : appleaccountd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 551
+Name : parsecd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 552
+Name : networkserviceproxy
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 553
+Name : AppSSOAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 554
+Name : contactsd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 555
+Name : AppSSODaemon
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 556
+Name : WiFiCloudAssetsXPCService
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 557
+Name : homed
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 558
+Name : akd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 559
+Name : itunescloudd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 560
+Name : CallHistoryPluginHelper
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 561
+Name : searchpartyuseragent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 562
+Name : com.apple.FaceTime.FTConversationService
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 563
+Name : bluetoothuserd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 565
+Name : adid
+Username : _fpsd
+Status : sleeping
+------------------------------------------------------------
+PID : 567
+Name : contactsdonationagent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 568
+Name : mediaremoteagent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 569
+Name : amsengagementd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 570
+Name : iCloudNotificationAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 571
+Name : CloudTelemetryService
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 572
+Name : avconferenced
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 573
+Name : ReportCrash
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 574
+Name : UniversalControl
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 576
+Name : linkd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 577
+Name : swcd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 578
+Name : commerce
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 579
+Name : CMFSyncAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 581
+Name : AssetCacheLocatorService
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 582
+Name : AssetCache
+Username : _assetcache
+Status : sleeping
+------------------------------------------------------------
+PID : 583
+Name : coresymbolicationd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 584
+Name : SafeEjectGPUAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 585
+Name : maild
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 586
+Name : SafeEjectGPUService
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 587
+Name : siriinferenced
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 588
+Name : UsageTrackingAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 589
+Name : ContextService
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 591
+Name : ProtectedCloudKeySyncing
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 592
+Name : Keychain Circle Notification
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 594
+Name : CloudKeychainProxy
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 595
+Name : diagnosticextensionsd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 596
+Name : Safari
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 597
+Name : financed
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 599
+Name : assistantd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 600
+Name : SidecarRelay
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 601
+Name : assistant_cdmd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 602
+Name : sirittsd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 603
+Name : AuthManager_Mac
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 604
+Name : mdbulkimport
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 605
+Name : com.apple.Safari.History
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 607
+Name : ImageIOXPCService
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 608
+Name : AssetCacheTetheratorService
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 609
+Name : CallHistorySyncHelper
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 610
+Name : passd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 611
+Name : com.apple.WebPrivacy.Service
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 613
+Name : SafariNotificationAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 614
+Name : nfcd
+Username : _applepay
+Status : sleeping
+------------------------------------------------------------
+PID : 615
+Name : CVMServer
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 616
+Name : com.apple.accessibility.mediaaccessibilityd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 617
+Name : com.apple.audio.SandboxHelper
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 618
+Name : SoftwareUpdateNotificationManager
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 619
+Name : FindMyMacd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 620
+Name : SafariBookmarksSyncAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 621
+Name : NFStorageServer
+Username : _applepay
+Status : sleeping
+------------------------------------------------------------
+PID : 622
+Name : distnoted
+Username : _applepay
+Status : running
+------------------------------------------------------------
+PID : 623
+Name : ScopedBookmarkAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 624
+Name : com.apple.WebKit.Networking
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 626
+Name : com.apple.WebKit.GPU
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 629
+Name : com.apple.Safari.SandboxBroker
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 630
+Name : translationd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 631
+Name : PasswordBreachAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 632
+Name : com.apple.Safari.SearchHelper
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 633
+Name : inputanalyticsd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 634
+Name : deleted_helper
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 635
+Name : photolibraryd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 636
+Name : aned
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 637
+Name : system_installd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 638
+Name : aneuserd
+Username : _neuralengine
+Status : sleeping
+------------------------------------------------------------
+PID : 639
+Name : spindump
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 640
+Name : geodMachServiceBridge
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 641
+Name : appstoreagent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 642
+Name : installd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 643
+Name : spindump_agent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 644
+Name : ModelCatalogAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 645
+Name : lockdownmoded
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 650
+Name : contentlinkingd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 651
+Name : PlugInLibraryService
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 652
+Name : installcoordinationd
+Username : _installcoordinationd
+Status : sleeping
+------------------------------------------------------------
+PID : 653
+Name : SafariLaunchAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 654
+Name : com.apple.AppStoreDaemon.StorePrivilegedODRService
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 655
+Name : webpushd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 656
+Name : findmydevice-user-agent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 657
+Name : spotlightknowledged
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 658
+Name : CoreThreadCommissionerServiced
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 659
+Name : promotedcontentd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 660
+Name : com.apple.audio.SandboxHelper
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 661
+Name : fairplaydeviceidentityd
+Username : _fpsd
+Status : sleeping
+------------------------------------------------------------
+PID : 663
+Name : com.apple.appkit.xpc.openAndSavePanelService
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 665
+Name : ImageIOXPCService
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 666
+Name : QuickLookUIService
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 667
+Name : CloudTelemetryService
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 668
+Name : AssetCacheLocatorService
+Username : _assetcache
+Status : sleeping
+------------------------------------------------------------
+PID : 675
+Name : progressd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 676
+Name : com.apple.Safari.SafeBrowsing.Service
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 677
+Name : PlugInLibraryService
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 678
+Name : com.apple.WebKit.WebContent
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 680
+Name : seserviced
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 682
+Name : modelmanagerd
+Username : _modelmanagerd
+Status : sleeping
+------------------------------------------------------------
+PID : 683
+Name : logd_helper
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 685
+Name : CloudTelemetryService
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 686
+Name : distnoted
+Username : _gamecontrollerd
+Status : running
+------------------------------------------------------------
+PID : 687
+Name : XProtectBridgeService
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 688
+Name : StocksKitService
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 689
+Name : com.apple.audio.ComponentTagHelper
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 690
+Name : gamecontrolleragentd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 691
+Name : CrashReporterSupportHelper
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 693
+Name : SiriSuggestionsBookkeepingService
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 694
+Name : siriknowledged
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 695
+Name : analyticsagent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 696
+Name : triald_system
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 697
+Name : com.apple.audio.SandboxHelper
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 698
+Name : fairplayd
+Username : _fpsd
+Status : sleeping
+------------------------------------------------------------
+PID : 699
+Name : IntelligencePlatformComputeService
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 701
+Name : localspeechrecognition
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 702
+Name : adprivacyd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 703
+Name : weatherd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 704
+Name : assistant_service
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 718
+Name : extensionkitservice
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 719
+Name : CalendarIntentsExtension
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 720
+Name : MessagesActionExtension
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 721
+Name : reversetemplated
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 722
+Name : MauiAUSP
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 724
+Name : KonaSynthesizer
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 725
+Name : MacinTalkAUSP
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 726
+Name : com.apple.audio.SandboxHelper
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 727
+Name : SiriAUSP
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 728
+Name : WardaSynthesizer_x86_64
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 729
+Name : com.apple.audio.SandboxHelper
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 730
+Name : com.apple.audio.SandboxHelper
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 731
+Name : com.apple.audio.SandboxHelper
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 732
+Name : AUCrashHandlerService
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 733
+Name : com.apple.audio.SandboxHelper
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 734
+Name : com.apple.SiriTTSService.TrialProxy
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 735
+Name : com.apple.SiriTTSService.TrialProxy
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 740
+Name : mdwrite
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 781
+Name : SiriNCService
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 783
+Name : remotemanagementd
+Username : _rmd
+Status : sleeping
+------------------------------------------------------------
+PID : 784
+Name : online-auth-agent
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 785
+Name : keychainsharingmessagingd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 786
+Name : com.apple.StreamingUnzipService.privileged
+Username : _nsurlsessiond
+Status : sleeping
+------------------------------------------------------------
+PID : 787
+Name : SecuritySubscriber
+Username : _rmd
+Status : sleeping
+------------------------------------------------------------
+PID : 788
+Name : distnoted
+Username : _rmd
+Status : running
+------------------------------------------------------------
+PID : 789
+Name : InteractiveLegacyProfilesSubscriber
+Username : _rmd
+Status : sleeping
+------------------------------------------------------------
+PID : 790
+Name : ScreenSharingSubscriber
+Username : _rmd
+Status : sleeping
+------------------------------------------------------------
+PID : 793
+Name : nsattributedstringagent
+Username : _softwareupdate
+Status : sleeping
+------------------------------------------------------------
+PID : 794
+Name : LegacyProfilesSubscriber
+Username : _rmd
+Status : sleeping
+------------------------------------------------------------
+PID : 795
+Name : PasscodeSettingsSubscriber
+Username : _rmd
+Status : sleeping
+------------------------------------------------------------
+PID : 796
+Name : com.apple.hiservices-xpcservice
+Username : _softwareupdate
+Status : running
+------------------------------------------------------------
+PID : 797
+Name : DiskManagementSubscriber
+Username : _rmd
+Status : sleeping
+------------------------------------------------------------
+PID : 798
+Name : cfprefsd
+Username : _softwareupdate
+Status : running
+------------------------------------------------------------
+PID : 799
+Name : SoftwareUpdateSubscriber
+Username : _rmd
+Status : sleeping
+------------------------------------------------------------
+PID : 800
+Name : ManagementTestSubscriber
+Username : _rmd
+Status : sleeping
+------------------------------------------------------------
+PID : 803
+Name : com.apple.accessibility.mediaaccessibilityd
+Username : _softwareupdate
+Status : running
+------------------------------------------------------------
+PID : 804
+Name : ManagedConfigurationFilesSubscriber
+Username : _rmd
+Status : sleeping
+------------------------------------------------------------
+PID : 813
+Name : nsattributedstringagent
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 823
+Name : DistributionHelper
+Username : _softwareupdate
+Status : running
+------------------------------------------------------------
+PID : 825
+Name : fudHelperAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 826
+Name : dataaccessd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 831
+Name : XProtectUpdateService
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 834
+Name : swtransparencyd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 837
+Name : storeaccountd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 839
+Name : wifivelocityd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 842
+Name : installerdiagd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 844
+Name : geoanalyticsd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 845
+Name : feedbackd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 848
+Name : CSExattrCryptoService
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 851
+Name : com.apple.audio.SandboxHelper
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 857
+Name : audioanalyticsd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 859
+Name : AuthenticationServicesAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 861
+Name : SetStoreUpdateService
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 866
+Name : EscrowSecurityAlert
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 880
+Name : audiomxd
+Username : _audiomxd
+Status : sleeping
+------------------------------------------------------------
+PID : 896
+Name : colorsync.useragent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 897
+Name : com.apple.ColorSyncXPCAgent
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 918
+Name : naturallanguaged
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 919
+Name : keyboardservicesd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 941
+Name : extensionkitservice
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 942
+Name : ImageThumbnailExtension
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1027
+Name : SpeechSynthesisServerXPC
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1082
+Name : QLPreviewGenerationExtension
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1084
+Name : CGPDFService
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1089
+Name : TextThumbnailExtension
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1092
+Name : com.apple.audio.SandboxHelper
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1093
+Name : VTDecoderXPCService
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1112
+Name : devicecheckd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1113
+Name : mlhostd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1114
+Name : amsondevicestoraged
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1115
+Name : extensionkitservice
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1118
+Name : Code
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1119
+Name : storekitagent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1121
+Name : chrome_crashpad_handler
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1122
+Name : Code Helper
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1123
+Name : Code Helper
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1125
+Name : Code Helper (Renderer)
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1144
+Name : Code Helper (Plugin)
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1145
+Name : Code Helper
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1146
+Name : Code Helper
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1160
+Name : pet
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1161
+Name : taskgated
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 1173
+Name : Code Helper
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1200
+Name : zsh
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1229
+Name : Code Helper (Plugin)
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1274
+Name : ShipIt
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1276
+Name : ASPCarryLog
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 1277
+Name : duetexpertd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1278
+Name : liquiddetectiond
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 1280
+Name : mapssyncd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1281
+Name : AppPredictionIntentsHelperService
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1282
+Name : homeenergyd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1289
+Name : com.apple.WebKit.WebContent
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1317
+Name : mmaintenanced
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 1319
+Name : betaenrollmentagent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1320
+Name : betaenrollmentd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 1343
+Name : powerdatad
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 1345
+Name : SpeechSynthesisServerXPC
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1346
+Name : AccessibilityVisualsAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1402
+Name : AppleSpell
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1403
+Name : diagnosticservicesd
+Username : _diagnosticservicesd
+Status : sleeping
+------------------------------------------------------------
+PID : 1455
+Name : BTLEServerAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1465
+Name : com.apple.CloudPhotosConfiguration
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1471
+Name : photoanalysisd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1473
+Name : cloudphotod
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1482
+Name : studentd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1528
+Name : writeconfig
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 1544
+Name : com.apple.geod
+Username : root
+Status : running
+------------------------------------------------------------
+PID : 1545
+Name : containermanagerd
+Username : root
+Status : running
+------------------------------------------------------------
+PID : 1550
+Name : Terminal
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1566
+Name : webprivacyd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1567
+Name : com.apple.SafariServices
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1569
+Name : OfficeThumbnailExtension
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1570
+Name : WebThumbnailExtension
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1571
+Name : com.apple.WebKit.GPU
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1574
+Name : com.apple.audio.SandboxHelper
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1608
+Name : MTLCompilerService
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1622
+Name : coreautha
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1668
+Name : PowerChime
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1692
+Name : USBAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1698
+Name : ospredictiond
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 1705
+Name : intelligenceplatformd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1731
+Name : CloudTelemetryService
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1733
+Name : IMAutomaticHistoryDeletionAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1735
+Name : sysdiagnosed
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 1745
+Name : distnoted
+Username : _neuralengine
+Status : running
+------------------------------------------------------------
+PID : 1747
+Name : managedcorespotlightd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1755
+Name : CloudTelemetryService
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1756
+Name : mlruntimed
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1761
+Name : XProtect
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 1797
+Name : privatecloudcomputed
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1798
+Name : businessservicesd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1799
+Name : CloudTelemetryService
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1800
+Name : MessagesBlastDoorService
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1802
+Name : tipsd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1804
+Name : XProtect
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1835
+Name : backgroundassets.user
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1838
+Name : DockHelper
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1844
+Name : RemoteManagementAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1845
+Name : proactiveeventtrackerd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1846
+Name : SafariConfigurationSubscriber
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1847
+Name : SecuritySubscriber
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1848
+Name : InteractiveLegacyProfilesSubscriber
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1849
+Name : ScreenSharingSubscriber
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1851
+Name : LegacyProfilesSubscriber
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1852
+Name : PasscodeSettingsSubscriber
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1853
+Name : AccountSubscriber
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1854
+Name : ManagementTestSubscriber
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1855
+Name : ASConfigurationSubscriber
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1856
+Name : ManagedSettingsSubscriber
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1858
+Name : CategoriesService
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1860
+Name : MTLAssetUpgraderD
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1861
+Name : MENotificationAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1862
+Name : BackgroundTaskManagementAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1864
+Name : proactived
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1872
+Name : media-indexer
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1873
+Name : AMPLibraryAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1879
+Name : PodcastContentService
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1880
+Name : com.apple.BKAgentService
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1882
+Name : AMPArtworkAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1900
+Name : appplaceholdersyncd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 1908
+Name : com.apple.WebKit.WebContent
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1910
+Name : com.apple.WebKit.WebContent
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 1997
+Name : AssetCacheManagerService
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 2060
+Name : knowledgeconstructiond
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 2068
+Name : PerfPowerTelemetryReaderService
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 2129
+Name : ControlCenterHelper
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 2196
+Name : netbiosd
+Username : _netbios
+Status : sleeping
+------------------------------------------------------------
+PID : 2203
+Name : nbagent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 2204
+Name : nbstated
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 2209
+Name : ecosystemanalyticsd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 2210
+Name : microstackshot
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 2268
+Name : login
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 2269
+Name : zsh
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 2341
+Name : spotlightknowledged
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 2473
+Name : Notes
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 2474
+Name : localspeechrecognition
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 2475
+Name : LocalAuthenticationRemoteService
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 2476
+Name : extensionkitservice
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 2477
+Name : PaperKitExtension
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 2481
+Name : com.apple.audio.SandboxHelper
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 2669
+Name : griddatad
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 2670
+Name : ciphermld
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 2678
+Name : dprivacyd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 2679
+Name : cfprefsd
+Username : _accessoryupdater
+Status : running
+------------------------------------------------------------
+PID : 2680
+Name : cfprefsd
+Username : _nsurlsessiond
+Status : running
+------------------------------------------------------------
+PID : 2681
+Name : cfprefsd
+Username : _cmiodalassistants
+Status : running
+------------------------------------------------------------
+PID : 2682
+Name : DPSubmissionService
+Username : home
+Status : sleeping
+------------------------------------------------------------
+PID : 2688
+Name : metrickitd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 2689
+Name : cfprefsd
+Username : _rmd
+Status : running
+------------------------------------------------------------
+PID : 2690
+Name : cfprefsd
+Username : _applepay
+Status : running
+------------------------------------------------------------
+PID : 2693
+Name : cfprefsd
+Username : _neuralengine
+Status : running
+------------------------------------------------------------
+PID : 2698
+Name : dprivacyd
+Username : root
+Status : sleeping
+------------------------------------------------------------
+PID : 2710
+Name : com.apple.iCloudHelper
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 2730
+Name : avatarsd
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 2779
+Name : mdworker_shared
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 2786
+Name : AXVisualSupportAgent
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 2787
+Name : sudo
+Username : home
+Status : running
+------------------------------------------------------------
+PID : 2788
+Name : Python
+Username : root
+Status : running
+------------------------------------------------------------
+------------------------------------------------------------
+------------------ End of Log File -----------------
+------------------------------------------------------------
