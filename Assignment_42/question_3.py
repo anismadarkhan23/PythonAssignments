@@ -1,9 +1,6 @@
 import pandas as pd
-import matplotlib.pyplot as plt
 
 from sklearn.neighbors import KNeighborsClassifier
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score
 from sklearn.preprocessing import StandardScaler
 
 BORDER = "-" * 55
@@ -26,6 +23,24 @@ def predict_student_result(k_neighbour):
 
     print(BORDER)
 
+    print("Seperated dependent & independet variables")
+    X = df.drop(columns = ["Result"])
+    Y = df["Result"].map(
+        {"Fail": 0, "Pass": 1}
+    )
+    print(BORDER)
+
+    print("Scaling the data")
+    scaler = StandardScaler()
+    X_scaled = scaler.fit_transform(X)
+
+    print(BORDER)
+
+    print("Trained the model")
+    model = KNeighborsClassifier(n_neighbors = k_neighbour)
+    model = model.fit(X_scaled, Y)
+    print(BORDER)
+
     study_hours = int(input("Enter the study hours: "))
     attendance_percentage = int(input("Enter the attendance percentage: "))
     test_stud_data = {
@@ -34,28 +49,12 @@ def predict_student_result(k_neighbour):
     }
 
     test_stud_data = pd.DataFrame(test_stud_data)
+    test_stud_data_scaled = scaler.transform(test_stud_data)
 
-    print("Testing student data as below")
-    print(test_stud_data)
+    print("Tested the model & predicted the result")
+    predicted_result = model.predict(test_stud_data_scaled)
     print(BORDER)
-
-    print("Seperated dependent & independet variables")
-    X = df.drop(columns = ["Result"])
-    Y = df["Result"]
-    print(BORDER)
-
-    print("Trained the model")
-    model = KNeighborsClassifier(n_neighbors = 3)
-    model = model.fit(X, Y)
-    print(BORDER)
-
-    print("Tested the model & calculated the accuracy")
-    model.predict(test_stud_data)
-    predicted_result = model.predict_proba(test_stud_data)
-    print(BORDER)
-
-    probability = float(f"{predicted_result[0][1] * 100:.2f}")
-    print("Model prediction: ", "Student will fail" if probability < 66.67 else "Student will pass")
+    print("Model prediction: ", "Pass" if predicted_result[0] == 1 else "Fail")
     print(BORDER)
 
 def main():
