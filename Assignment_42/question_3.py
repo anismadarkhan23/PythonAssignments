@@ -44,12 +44,6 @@ def predict_student_result(k_neighbour):
     Y = df["Result"]
     print(BORDER)
 
-    # print("Splited data for training & testing")
-    # X_train, X_test, Y_train, Y_test = train_test_split(X, Y, train_size = 0.75, random_state = 42)
-    # X_test = test_stud_data
-
-    # print(BORDER)
-
     print("Trained the model")
     model = KNeighborsClassifier(n_neighbors = 3)
     model = model.fit(X, Y)
