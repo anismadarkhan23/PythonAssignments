@@ -39,6 +39,27 @@ def test_model_with_unseen_data(model_vc, scaler):
     else:
         print("The loan is rejected for the customer.")
 
+def evaluate_model_with_logistic_regression(model_lr, X_train, Y_train, X_test, Y_test):
+    model_lr.fit(X_train, Y_train)
+    model_predicted_result = model_lr.predict(X_test)
+    model_accuracy = accuracy_score(Y_test, model_predicted_result)
+    print(f"Overall Model Accuracy with Logistic Regression: {model_accuracy * 100:.2f}%")
+    print(BORDER)
+
+def evaluate_model_with_decision_tree(model_dt, X_train, Y_train, X_test, Y_test):
+    model_dt.fit(X_train, Y_train)
+    model_predicted_result = model_dt.predict(X_test)
+    model_accuracy = accuracy_score(Y_test, model_predicted_result)
+    print(f"Overall Model Accuracy with Decision Tree: {model_accuracy * 100:.2f}%")
+    print(BORDER)
+
+def evaluate_model_with_knn(model_knn, X_train, Y_train, X_test, Y_test):
+    model_knn.fit(X_train, Y_train)
+    model_predicted_result = model_knn.predict(X_test)
+    model_accuracy = accuracy_score(Y_test, model_predicted_result)
+    print(f"Overall Model Accuracy with K-Nearest Neighbors: {model_accuracy * 100:.2f}%")
+    print(BORDER)
+
 def voting_classifier_customer_loan_approval_model(scaler, X_train, X_test, Y_train, Y_test, model_lr, model_dt, model_knn, vote_type):
     print(BORDER)
     print(BORDER)
@@ -149,6 +170,11 @@ def customer_load_approval_model(dataset_path):
     model_knn = KNeighborsClassifier(n_neighbors = 3)
     print("Individual models created successfully...")
     print(BORDER)
+
+    evaluate_model_with_logistic_regression(model_logReg, X_train, Y_train, X_test, Y_test)
+    
+    evaluate_model_with_decision_tree(model_dt, X_train, Y_train, X_test, Y_test)
+    evaluate_model_with_knn(model_knn, X_train, Y_train, X_test, Y_test)
 
     voting_classifier_customer_loan_approval_model(scaler, X_train, X_test, Y_train, Y_test, 
                                              model_logReg, model_dt, model_knn, vote_type = "hard")
