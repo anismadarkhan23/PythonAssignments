@@ -1,0 +1,14 @@
+--------------------------------------------------------------------------------
+------------------- LOSS CALCULATION WITH MEAN SQUARED ERROR -------------------
+MSE -> Actual values: [10, 12, 14, 16, 18, 20, 22]
+MSE -> Predicted values: [12, 14, 16, 18, 20, 22, 22]
+Loss using Mean Squared Error(MSE) is 3.43
+------------------- LOSS CALCULATION WITH MEAN SQUARED ERROR -------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+------------------ LOSS CALCULATION WITH BINARY CROSS ENTROPY ------------------
+BSE -> Actual values: [1, 1, 0, 0, 1, 1, 1, 0, 0, 1, 0]
+BSE -> Predicted values: [0.95, 1, 0.1, 0, 0.78, 0.9, 0.88, 0.13, 0, 0.99, 0.23]
+Loss using Binary Cross Entropy(BSE) is 0.10
+------------------ LOSS CALCULATION WITH BINARY CROSS ENTROPY ------------------
+--------------------------------------------------------------------------------
